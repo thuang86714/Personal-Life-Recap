@@ -20,7 +20,7 @@
 - 在蘇怡帆身邊幫他慶生
 - Read Design Data Intensive Application(DDIA)
 
-## Resolution:
+## 2025 Resolution:
 - 在蘇怡帆身邊幫他慶生
 - Find a Software Engineer job in London
 - Read System Design Interview - An Insider's Guide by Alex Xu
