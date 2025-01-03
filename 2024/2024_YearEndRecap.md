@@ -1,5 +1,5 @@
 # Year End Review
-##TL;DR
+## TL;DR
 - Start working as Software Engineer, and soon moved from ViewSonic to Trend Micro
 - 2 week trip to Japan, with my girlfriend
     ![Japan Trip](./assets/UniversityOfTokyoGingo.jpg)
