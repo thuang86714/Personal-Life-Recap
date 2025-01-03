@@ -1,6 +1,6 @@
 # Year End Review
 ##TL;DR
-- Start working as Software Engineer, and soon move from ViewSonic to Trend Micro
+- Start working as Software Engineer, and soon moved from ViewSonic to Trend Micro
 - 2 week trip to Japan, with my girlfriend
     ![Japan Trip](./assets/UniversityOfTokyoGingo.jpg)
 - Lost 12kg by 10 months of diet and exercise
@@ -8,11 +8,12 @@
 - Defend Taiwan's democracy
 
 ## Achievement:
-- Reached out by Google, and got invited to interview
+- Reached out by Google, invited to interview
 - Soon realized ViewSonic is not a good place to work(2nd month), left the company before it's too late
     ![ViewSonic Badge](./assets/ViewSonic.jpg)
 - Finally started to work as web developer(Trend Micro, golang and gin for backend)
 - Rent a place in 中和and survived
+
 
 ## Failed to do:
 - Wrote any story
@@ -25,6 +26,8 @@
 - Read System Design Interview - An Insider's Guide by Alex Xu
 - Read Design Data Intensive Application(DDIA)
 - Start my investment plan
+- Got AWS Certified Solution Architect Professional(SAP-C02)
+- Backup copy for all my photos
 
 ## Entertainment:
 - Spotify:
@@ -50,6 +53,7 @@
     - 膽大黨
     - 葬送的福利蓮
     - 迷宮飯(漫畫完結)
+    - 咒術迴戰(漫畫今年完結)
 - 2024 Watched together with 蘇怡帆(Yvonne):
     - 老狐狸
     - Poor thing
@@ -76,9 +80,14 @@
 - Inspired by Kpop fans in Korea, who protested against President Yoon declaring martial law, Kpop fans in Taiwan went on the streets with their hand lights(手燈), launched the campaign “我的本命是台灣”
 - My favorite baseball team, 中信兄弟CTBC Brothers, won 2024 season Championship 
 - My favorite NBA franchise, Boston Celtics, won 23-24 season Championship
-- 王齊麟和李洋再次在奧運組成麟洋配, 達成史上第一次奧運羽球男雙連霸
+- 2024巴黎奧運, 王齊麟和李洋再次在奧運組成麟洋配, 達成史上第一次奧運羽球男雙連霸
     ![Chilin Won Gold Medal](./assets/ChilinWonGoldMedal.jpg)
+- 2024巴黎奧運, 林郁婷在由國際拳總(俄羅斯控制)製造的, 不存在的生理性別爭議中, 奪下金牌. 哈利波特作者J.K. Rowling, 因為恐跨的情緒跟白人中心的審美, 在這起事件中成為國際拳總的幫兇
+    ![Boxing Beats Magic](./assets/BoxingBeatsMagic.jpg)
 - 柯文哲, 2014年趁著太陽花學運動能, 當選台北市長. 2024年, 柯文哲在一堆弊案跟爭議中走下神壇, 同年底北檢起訴求刑28.5年
+- 焦安溥跟吳慷仁, 即使曾經參與過太陽花學運, 也無法阻止他們在2024年, 迎合中國市場, 在10/1祝福中國生日快樂, 同時發表類似兩岸一家親的言論
+- 大谷翔平, 在轉隊到道奇隊的第一年在球隊成就跟個人成就大豐收: 道奇贏得2024世界大賽冠軍 && 大谷本季僅以打者身分上場, 創下前無古人的54轟59盜, 贏得國聯MVP
+- 咒術迴戰一路電梯向下爛到底的完結了. 五條悟以人肉載具的方式被乙骨優太短暫復活
 
 ## Personal Events/ Trivia:
 - 在大阪環球影城買了耀西的頭套，日本行的最佳購物之一
@@ -91,6 +100,10 @@
 - Volunteered in Pride Parade. Some heterosexual old men pointed at my nose and called me selfish because I rejected their vehicles ran into the crowd.
 - My only friend from grade school, Baudoin, came to Taiwan with his sister Astrid! They spent 10 days in Taiwan. We celebrated my 27th birthday in Taipei.
     ![Baudouin Came to Taiwan](./assets/BaudouinCame.jpg)
+- 上半年去台南探訪陳毅, 順便去玩
+    ![Yeeeeee](./assets/Yee.jpg)
+- 10/26六魯重聚, 在宜蘭包棟兩天一夜
+    ![Friends](./assets/Friends.jpg)
 
 ## Names of People I met:
 - 王靖婷: 蘇怡帆的朋友
@@ -103,7 +116,7 @@
 - Jim Lin: Trend Micro colleague
 - Arthur Li: Trend Micro colleague
 - Danny Du: Trend Micro colleague, Tech Lead
-- Neil xx: Trend Micro colleague, an incompotent team lead
+- Neil xx: Trend Micro colleague, Team Lead
 - James Ho: Trend Micro colleague, a newbie just like me
 
 ## Question to keep in mind:
