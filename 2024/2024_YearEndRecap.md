@@ -65,7 +65,7 @@
   - Baby reindeer
   - Past lives
   - One day
-    ![One Day](./assets/OneDay.jpeg)
+    ![One Day](./assets/oneDay.jpeg)
   - 淚之女王
   - 少年歌行
   - Karina 綜藝
