@@ -77,6 +77,7 @@
     ![我幹你的民眾黨](./assets/Protest2.jpg)
 - President of South Korea, Mr. Yoon Suk Yeol, unilaterally declared martial law and soon impeached for this.
 - Donald Trump re-elected as president of the United States.
+    ![US Election Result](./assets/USElectionResult.jpg)
 - Inspired by Kpop fans in Korea, who protested against President Yoon declaring martial law, Kpop fans in Taiwan went on the streets with their hand lights(手燈), launched the campaign “我的本命是台灣”
 - My favorite baseball team, 中信兄弟CTBC Brothers, won 2024 season Championship 
 - My favorite NBA franchise, Boston Celtics, won 23-24 season Championship
@@ -93,6 +94,11 @@
 - 在大阪環球影城買了耀西的頭套，日本行的最佳購物之一
     ![Yoshi!](./assets/YoshiGoHome.jpg)
 - 在日本行購入心心念念的 Aesop Tacit
+- 京都百貨公司內的三嶋亭是我吃過最好吃的壽喜燒
+    ![Best Sukiyaki](./assets/BestSukiyaki.jpg)
+- 喜歡名古屋甚麼都有但人少很多
+- 我穿和服意外很適合, 很像什麼都不會的廢物少爺
+    ![Kimono](./assets/Kimono.jpg)
 - 到年末有四罐喜歡的香水: Aesop Tacit, 台灣小眾品牌 EyeCandle Religious Cedar, 日本小眾品牌 Aux Paradis 的 Winter Berry, 來自韓國 OneWood(Le Labo The Noir 平替)
 - 隨著年華老去, 每天出門前都會擦有潤色效果的防曬乳
 - Ruined my old Samsung phone when I was doing squat. Start using IPhone 
@@ -102,8 +108,16 @@
     ![Baudouin Came to Taiwan](./assets/BaudouinCame.jpg)
 - 上半年去台南探訪陳毅, 順便去玩
     ![Yeeeeee](./assets/Yee.jpg)
-- 10/26六魯重聚, 在宜蘭包棟兩天一夜
+- Oct/26六魯重聚, 在宜蘭包棟兩天一夜
     ![Friends](./assets/Friends.jpg)
+- Dec/31-2025/Jan/01阿里山跨年團, 老白主揪
+    ![Alishan](./assets/Alishan.jpg)
+- 洪翊閔爸爸身體微恙, 他一邊穩定家裡一邊照顧我的右肩, 也持續加強物理治療專業
+    ![Hong](./assets/Hong.jpg)
+- 彭紹宇完成第二本書大綱
+    ![Peng](./assets/Peng.jpg)
+- 郭宸輔&&陳儀珈今年三月完成婚禮, 同年十月生下第一個寶寶
+- 黃大謙出第二張專輯, 大受好評. "我過得好嗎?"獲得高討論度 
 
 ## Names of People I met:
 - 王靖婷: 蘇怡帆的朋友
