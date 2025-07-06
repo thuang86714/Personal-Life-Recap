@@ -111,7 +111,7 @@
 - Ruined my old Samsung phone when I was doing squat. Start using IPhone
 - Lose 12kg(80->68) by 10 months of diet
 - Volunteered in Pride Parade. Some heterosexual old men pointed at my nose and called me selfish because I rejected their vehicles ran into the crowd.
-- My only friend from grade school, Baudoin, came to Taiwan with his sister Astrid! They spent 10 days in Taiwan. We celebrated my 27th birthday in Taipei.
+- My only friend from grad school, Baudoin, came to Taiwan with his sister Astrid! They spent 10 days in Taiwan. We celebrated my 27th birthday in Taipei.
   ![Baudouin Came to Taiwan](./assets/BaudouinCame.jpg)
 - 上半年去台南探訪陳毅, 順便去玩
   ![Yeeeeee](./assets/Yee.jpg)
