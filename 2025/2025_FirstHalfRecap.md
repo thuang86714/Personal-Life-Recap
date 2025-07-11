@@ -3,8 +3,9 @@
 ## TL; DR
 
     ⁃	passed all Google interviews, waiting to get team matched
-    ⁃	Vaish and Lux’s Tamil wedding in Toronto ![Vaish's Wedding](../asset/iwillrememberforever.jpg)
-    ⁃	Attended Yi-Fan’s favorite KPOP idol — Taeyeon’s concert ![Taeyeon Concert](../asset/TaeyeonConcert.jpg)
+    ⁃	Vaish and Lux’s Tamil wedding in Toronto ![Vaish's Wedding](./asset/iwillrememberforever.jpg)
+    ⁃	Attended Yi-Fan’s favorite KPOP idol — Taeyeon’s concert
+    ![TaeyeonConcert](asset/taeyeonconcert.jpg)
     ⁃	Deadlifted 100kg!
 
 ## Things I like & Achievement:
