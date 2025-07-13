@@ -60,6 +60,7 @@
 - 母胎單身戀愛大作戰
 
 ## Cool Things I bought:
+
 - super smooth & silent travel case
   ![](asset/travelcase.jpg)
 - Light green jacket
@@ -69,16 +70,16 @@
 - Carhartt WIP, OG Detroit Jacket Blue/ Black rinsed-->my 2025 birthday gift from Yi-Fan
   ![](asset/carharttwip.jpg)
 - Shiro Perfume Pomegranate
- - Clarks Wallabes- Black Leather
- ![](asset/wallabee.jpg)
+- Clarks Wallabes- Black Leather
+  ![](asset/wallabee.jpg)
 
 ## External Events
 
-- 連署書& 誇誇團: 今年2月初, 台灣人民對被滲透的國會成員發動罷免. 身處中六選區, 現任立委是盧秀燕支持的羅廷瑋. 以奶爸形象當選, 但卻在國會全副武裝毆打他黨立委, 並且在罷免風潮當中, 變裝出席委員會, 試圖通過爭議法案. 我在第一時間就簽屬一階跟二階聯署書. 7/26要進行最終的罷免投票, 大罷免大成功
-![](asset/recall2025.jpg)
-![](asset/recalllo.jpg)
+- 連署書& 誇誇團: 今年 2 月初, 台灣人民對被滲透的國會成員發動罷免. 身處中六選區, 現任立委是盧秀燕支持的羅廷瑋. 以奶爸形象當選, 但卻在國會全副武裝毆打他黨立委, 並且在罷免風潮當中, 變裝出席委員會, 試圖通過爭議法案. 我在第一時間就簽屬一階跟二階聯署書. 7/26 要進行最終的罷免投票, 大罷免大成功
+  ![](asset/recall2025.jpg)
+  ![](asset/recalllo.jpg)
 - Boston Celtics, after the Ace Jayson Tatum tore his achilles, got swept by New York Knicks. After the end of the season, to lower the team wage below 2nd apron, had no choice but to send away Jrue Holiday and Kristaps Porziņģis(Btw, NBA 2024-2025 Champion is Oklahoma Thunder)
-- CTBC Brothers中信兄弟, 在勝騎士因傷整季報銷, 德寶拉跟吳俊瑋因傷長期缺陣, 曾頌恩跟王威晨狀況不佳的情況下, 跟統一獅糾纏到上半季最後一場才痛失上半季冠軍.
+- CTBC Brothers 中信兄弟, 在勝騎士因傷整季報銷, 德寶拉跟吳俊瑋因傷長期缺陣, 曾頌恩跟王威晨狀況不佳的情況下, 跟統一獅糾纏到上半季最後一場才痛失上半季冠軍.
 - Trend Micro Reorg: Neil, the team lead is removed from the leader role. His team-- Cabybara is dismantle, and I'm moved to Slime Team.
 - Grandma's hearing issue is getting worse. What's worse is, her shaking hands might suggest some kind of neuro deterioation
 
@@ -98,29 +99,32 @@
 - 蘇怡帆創作蛇年貼圖, 可愛~
   ![](asset/yearofsnake.JPG)
 
-
 ## Friends Status Updates:
+
 - 睽違十年, 見到正在東京藝術大學努力做遊戲的胡琦, 依然是地表最酷的人類
-![huchi](asset/huchi.jpg)
+  ![huchi](asset/huchi.jpg)
 - 陳毅終於考上公務員, 加入雲林縣政府觀光科(?)
-![](asset/chenyee.jpg)
-- 洪翊閔成為一個小時收費1800, 一個月治療破170病人的酷酷物理治療師. 而且被室友告白兩次
-![](asset/hong.jpg)
+  ![](asset/chenyee.jpg)
+- 洪翊閔成為一個小時收費 1800, 一個月治療破 170 病人的酷酷物理治療師. 而且被室友告白兩次
+  ![](asset/hong.jpg)
 - 彭紹宇雖然嘴邊掛著即將出版的小說是醜媳婦總要見公婆, 但可以完成自己的小說就已經超棒的了
-![](asset/peng.jpg)
-- 從去年十月為了陳柏安, 六魯成員全體宜蘭包棟民宿兩天一夜之後, 就再也沒有見過大家了QQ
+  ![](asset/peng.jpg)
+- 從去年十月為了陳柏安, 六魯成員全體宜蘭包棟民宿兩天一夜之後, 就再也沒有見過大家了 QQ
 - 黃大謙出了一張很讚的專輯 [here's my fav](https://youtu.be/h1loJuo2k78?si=OzlVqncBUSmxIHdv)
 
 ## New friends:
+
 - Andy from Google
 - Jonathan from Google(but now in Aztec)
 - Anabella Hsu from Google, Yi-Fan's friend
 - Webber, the trainer from gym
 
 ## Thoughts and Takeways:
-- 我或許不再是E人?: 隨著工作跟事業越來越花時間, 除了自身跟伴侶以外, 我能夠在乎的事情, 能夠跟朋友相處的時間越來越少. 每天下班後其實很享受一個人划手機或是跟Yi-Fan視訊
+
+- 我或許不再是 E 人?: 隨著工作跟事業越來越花時間, 除了自身跟伴侶以外, 我能夠在乎的事情, 能夠跟朋友相處的時間越來越少. 每天下班後其實很享受一個人划手機或是跟 Yi-Fan 視訊
 - 能夠完成就已經很了不起了: 長大後有很多事情太過困難, 不論用甚麼姿勢, 可以完成就已經很了不起了
 
 ## TODO:
+
 - Learn how to co-work with some AI coding assistant, before it will replace me
 - Detailed Financial Plan to get married. Yi-Fan and I will register as wife and husband, possibly in April 2026.
