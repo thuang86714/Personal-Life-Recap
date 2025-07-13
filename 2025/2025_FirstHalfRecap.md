@@ -6,7 +6,7 @@
     ⁃	Vaish and Lux’s Tamil wedding in Toronto ![Vaish's Wedding](asset/iwillrememberforver.jpg)
     ⁃	Attended Yi-Fan’s favorite KPOP idol — Taeyeon’s concert
     	![Yoshi!](./asset/taeyeonconcert.jpg)
-    ⁃	Deadlifted 100kg!
+    ⁃	Deadlifted 100kg! https://github.com/user-attachments/assets/e9b480a5-6e6d-4040-b4ce-7e0e6becb94b
 
 ## Things I like & Achievement:
 
@@ -29,6 +29,10 @@
 ## TV Series/ Movies/ Anime I watched:
 
     - 地, 關於地球的運動
+
+
+
+
     - 柯南劇場版: 黑鐵的魚影
 
 ## Tv series I watched with my partner Yi-Fan(Yvonne):
