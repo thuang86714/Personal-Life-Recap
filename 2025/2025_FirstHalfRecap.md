@@ -11,6 +11,7 @@
   ![Taeyeon Concert](./asset/taeyeonconcert.jpg)
 
 - Deadlifted 100kg!
+  ![Deadlift](https://github.com/user-attachments/assets/e9b480a5-6e6d-4040-b4ce-7e0e6becb94b)
 
 ## Things I like & Achievement:
 
