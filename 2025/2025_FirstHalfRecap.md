@@ -10,8 +10,7 @@
 - Attended Yi-Fan’s favorite KPOP idol — Taeyeon’s concert
   ![Taeyeon Concert](./asset/taeyeonconcert.jpg)
 
-- Deadlifted 100kg!
-  ![Deadlift](https://youtube.com/shorts/KQnpyQWmhC0)
+- Deadlifted 100kg! [Deadlift](https://youtube.com/shorts/KQnpyQWmhC0)
 
 ## Things I like & Achievement:
 
