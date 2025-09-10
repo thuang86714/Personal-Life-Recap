@@ -1,7 +1,7 @@
 # 2025 2nd Half review
 
 ## Some Highlights:
-
+- I bought the ring! 買了求婚戒指! from iPrimo, Kelano(0.4ct), S/O to Yi-Fan Su for full involvement
 ## Things I don't like:
 - As till July 2025, not a single thing went as I wanted. How Nice!
 - Even though I've passed all the Google interview, I've encountered 2 major issues stopping me from quitting Trend Micro: 
@@ -11,7 +11,9 @@
 - 大罷免大失敗
 - 作為大人的身不由己:成年之後, 縱使再努力, 也有太多太多的事情無法照我們想要的方向走eg. Google& 友情的維持-->Yi-Fan said she may not invite Savanna Chang, who, hands down used to be her best friend, to our planned proposal in Paris. And, eventually, we may only need inline website to book our wedding venue. Cuz only a dozen of people will be invited.
 
-
+## Things I like
+- Had farewell dinner with Ava Wen and her husband Albert, before she moves to the States
+- 可以連續, 動作漂亮的做四下100公斤硬舉
 
 ## Books I've read:
 - 
@@ -36,3 +38,6 @@
 - 接近30歲, 開始覺得身體機能有在往下而感到焦慮. 具體事例包含: 代謝下降, 瘦身不易./ 一周至多兩練的肌肉成長速度不如預期. 
 ![Aug/2025 Body Metrics](./asset/bodyMetrics.jpg)
 - Stop waiting for Google Team Match, moving on to prep for other companies. Good performance doesn't necessarily lead to good result. Besides, I only got Lean No Hire in Googleness Interview.
+
+## People around me:
+- on Sep/09 Morning, 洪翊閔爸爸過世. 洪翊閔情緒穩定
