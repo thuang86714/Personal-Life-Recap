@@ -42,14 +42,15 @@
 - Glass Heart 玻璃之心: 佐藤健好帥, 菅田將暉好會唱
 - 鬼滅之刃電影版, 無限城篇--猗窩座再襲: 猗窩座招式好華麗
 - The Diplomat Season 3 頭號外交官 S3
+- 浴血黑幫Peaky (Fucking) Blinder, by Cillian Murphy
 
 ## Tv series I watched with my partner Yi-Fan(Yvonne):
-
 - 母胎單身大作戰
 - 零日攻擊(expected)
 - 你和其餘的一切(朴智賢跟金高銀好漂亮, 但爛尾)
 - 換乘戀愛 Season4
 - 嗜亡村 Season1 & Season2(爛尾)
+- 未知的首爾
 
 ## Thoughts
 
@@ -57,11 +58,13 @@
   ![Aug/2025 Body Metrics](./asset/bodyMetrics.jpg)
 - Stop waiting for Google Team Match, moving on to prep for other companies. Good performance doesn't necessarily lead to good result. Besides, I only got Lean No Hire in Googleness Interview.
 - We tend to overestimate what we could achieve in 1 year, but underestimate what we could achieve in 10 years
+- With the release of Gemini 3 and Claude Opus 4.5, would 90% of the software engineers in the world lose their jobs before the end of 2026? If so, what should I do?
+- Even though building systems for 7 millions MAU, I can still feel the technical gaps between some other real Tech company. The thought glooms when I applied to Tiktok/ Google. They deep dive beyond the application layer. When I read the job description of a "Fullstack" engineer role at Tiktok, I could barely understand.
 
 ## People around me:
 
 - on Sep/09 Morning, 洪翊閔爸爸過世. 洪翊閔情緒穩定
-
+- on Nov/26 彭紹宇出版他的第二本書/第一本小說"往事首映會"
 ## Things I failed
 
 - Fit talk with David Sharp, hiring manager from Google TPU Compiler team
